@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "descricao": "Sapato masculino New York",
+      "preco": "154.90",
+      "imagem": "sapatomasculinony.webp"
+    },
+    {
+      "id": 2,
+      "descricao": "Sandália feminina Coney Island",
+      "preco": "200.99",
+      "imagem": "sandaliafemininaci.webp"
+    },
+    {
+      "id": 3,
+      "descricao": "Chinelo bege do Brooklin",
+      "preco": "19.90",
+      "imagem": "chinelobrooklin.webp"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "admin",
+      "senha": "admin"
+    }
+  ]
+}
